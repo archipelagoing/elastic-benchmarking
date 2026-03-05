@@ -1,0 +1,15 @@
+List of all results
+-------------------------
+- java-bm25 ndcg@10: 0.47646329314588537
+- java-tfidf5 ndcg@10: 0.4598704998596104
+- java-dirichlet5 ndcg@10: 0.3520072908102156
+- -----------------
+- python-bm25 ndcg@10: 0.4968417431139021
+- python-tfidf5 ndcg@10: 0.4680931950762395
+- python-dirichlet5 ndcg@10: 0.3543755085621779
+- -----------------
+- javascript-bm25 ndcg@10: 0.5001025734259281
+- javascript-tfidf5 ndcg@10: 0.47591826228966466
+- javascript-dirichlet5 ndcg@10: 0.32928802463538187
+- -----------------
+
